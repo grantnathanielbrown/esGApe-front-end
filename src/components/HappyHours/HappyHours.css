@@ -1,0 +1,12 @@
+a {
+    color: black;
+}
+
+.barscontainer {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+

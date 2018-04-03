@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.clickbox {
+    height: 300px;
+    width: 300px;
+    border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+.greetings {
+    text-align: center;
+    font-family: cursive, sans-serif;
+    color: palevioletred;
+    border-radius: 50%;
+    shape-outside: circle(50%);
+}
+
